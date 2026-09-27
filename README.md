@@ -31,7 +31,7 @@ Instead of calling names or maintaining paper registers, a teacher creates a tem
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sherin42/qr-attendance-system/main/assets/attendly-school.svg" alt="Attendly school themed illustration" width="760">
+<img src="assets/attendly-school.svg" alt="Attendly school themed illustration" width="760">
 
 </div>
 
