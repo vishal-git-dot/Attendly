@@ -731,7 +731,7 @@ Attendly can be adapted for:
 Contributions are welcome.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/vishal-git-dot/Attendly
 cd Attendly
 ```
 
